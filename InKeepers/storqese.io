@@ -9,4 +9,8 @@ pages that aren't product-specific.
 "About" page after adding something to the storqese.io cart,
  I want them to be easily able to find the cart and check out). 
 Need to understand which part of the
- code can help me do this.
+ code can help me do this. + adding migration
+Bitcoin.com/https://usa.visa.com/visa-
+everywhere/blog/bdp/2020/07/21/
+advancing-our-approach-1595302085970.html
+🚼storqese is shopping wallet. 
